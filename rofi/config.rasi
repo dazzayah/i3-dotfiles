@@ -1,0 +1,4 @@
+//@theme "/usr/share/rofi/themes/android_notification.rasi"
+//@theme "/home/dazzayah/.local/share/rofi/themes/rounded-blue-dark.rasi"
+//@theme "/usr/share/rofi/themes/gruvbox-dark.rasi"
+@theme "/home/dazzayah/.config/rofi/themes/gruvbox-dark.rasi"
