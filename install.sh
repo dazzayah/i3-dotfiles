@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source ./.bash_loading_animations/bash_loading_animations.sh
+source ./.sources/bash_loading_animations.sh
 trap BLA::stop_loading_animation SIGINT
 
 clear
