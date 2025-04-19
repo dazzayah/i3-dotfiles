@@ -11,5 +11,5 @@ Clone this repository into your home directory (or wherever you prefer):
 git clone https://github.com/yourusername/dotfiles.git ~/dotfiles
 cd ~/dotfiles
 ```
-Simply type stow {dotfile_directory} from the root of the repository, to add a symlink from your configuration to this repository. 
-Keep this repository in order for it to work, or simply use the install.sh script provided for a full copy.
+Simply run stow {dotfile_directory} from the root of the repository to create symlinks from your system configuration to this repository.
+Make sure to keep this repository in place for the links to work, or use the provided install.sh script to copy the files directly instead.
