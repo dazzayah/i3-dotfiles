@@ -8,7 +8,7 @@ My minimal and modular dotfiles for the i3 window manager, ready to be managed w
 Clone this repository into your home directory (or wherever you prefer):
 
 ```bash
-git clone https://github.com/yourusername/dotfiles.git ~/dotfiles
+git clone https://github.com/dazzayah/dotfiles.git ~/dotfiles
 cd ~/dotfiles
 ```
 Simply run stow {dotfile_directory} from the root of the repository to create symlinks from your system configuration to this repository.
